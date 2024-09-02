@@ -1,4 +1,4 @@
-# Welcome to Mathisian
+# <img width="256" alt="Mathisian logo" src="https://raw.githubusercontent.com/mathisian/.github/main/logotype/colored/type-colored.svg">
 
 ## Our Mission
 
