@@ -1,4 +1,7 @@
-# <img width="256" alt="Mathisian logo" src="https://raw.githubusercontent.com/mathisian/.github/main/logotype/colored/type-colored.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathisian/.github/main/logotype/dark/logotype-dark.svg">
+  <img  width="256" alt="Mathisian logo" src="https://raw.githubusercontent.com/mathisian/.github/main/logotype/light/logotype-light.svg">
+</picture>
 
 ## Our Mission
 
